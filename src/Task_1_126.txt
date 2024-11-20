@@ -1,0 +1,12 @@
+GlobalInventoryData
+Line-21--use of magic numbers
+Line-20--Primitive Obsession
+
+InventorySystem
+Line-12,218--LongClass --Many methods are within the class that are not directlt related
+Line-(46,66),-- conditional complexity--many if else statements
+Line-(44,73)-- tight coupling
+
+
+
+
