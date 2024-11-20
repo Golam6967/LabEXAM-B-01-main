@@ -1,3 +1,3 @@
-public class PlasticCup {
+public class PlasticCup implements WrapperType {
     static final int price = 0;
 }
